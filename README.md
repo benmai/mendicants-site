@@ -1,3 +1,3 @@
 # Stanford Mendicants
 
-[stanfordmendicants.com](stanfordmendicants.com)
+[stanfordmendicants.com](http://stanfordmendicants.com)
