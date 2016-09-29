@@ -36,6 +36,14 @@ a.auditions:focus {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+.callbacks a {
+  color: #cccccc;
+}
+
+.callbacks a:hover,
+.callbacks a:focus {
+  color: white;
+}
 h1,
 h2,
 h3,
