@@ -1,0 +1,99 @@
+{
+  "people": [
+    {
+      "name": "Austin Zambito-Valente '20",
+      "part": "Lead",
+      "img": "austin"
+    },
+    {
+      "name": "Carter Burr-Kirven '18",
+      "part": "Bass",
+      "img": "carter"
+    },
+    {
+      "name": "Chris Adusei-Poku '20",
+      "part": "Baritone",
+      "img": "chris"
+    },
+    {
+      "name": "Alex Feldman '17",
+      "part": "Lead",
+      "img": "flex"
+    },
+    {
+      "name": "Gabe Wieder '20",
+      "part": "Bass",
+      "img": "gabe"
+    },
+    {
+      "name": "John Sholar '18",
+      "part": "Lean",
+      "img": "john"
+    },
+    {
+      "name": "Josh Adamson '20",
+      "part": "Bass",
+      "img": "josh"
+    },
+    {
+      "name": "Khoi Le '20",
+      "part": "Lead",
+      "img": "khoi"
+    },
+    {
+      "name": "Kris Kaya '20",
+      "part": "Baritone",
+      "img": "kris"
+    },
+    {
+      "name": "Lachlan Green '17",
+      "part": "Baritone",
+      "img": "lachlan"
+    },
+    {
+      "name": "Pete Kurzner '17",
+      "part": "Top",
+      "img": "pete"
+    },
+    {
+      "name": "Robby Haag '19",
+      "part": "Baritone",
+      "img": "robby"
+    },
+    {
+      "name": "Alexander Ronneburg '17",
+      "part": "Top",
+      "img": "ronnie"
+    },
+    {
+      "name": "Stefan Swaans '17",
+      "part": "Bass",
+      "img": "stefan"
+    },
+    {
+      "name": "Tim Isaacs '20",
+      "part": "Lead",
+      "img": "tim_i"
+    },
+    {
+      "name": "Tim Sherlock '20",
+      "part": "Top",
+      "img": "tim_s"
+    },
+    {
+      "name": "Trent Sandman '19",
+      "part": "Top",
+      "img": "trent"
+    },
+    {
+      "name": "Trey Hale '18",
+      "part": "",
+      "img": "trey"
+    },
+    {
+      "name": "Zach Esrig '17",
+      "part": "Lead",
+      "img": "zach"
+    }
+  ]
+}
